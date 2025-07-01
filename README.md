@@ -1,7 +1,7 @@
-# Marketing-Project
+# Portfolio
 
 
-## Performance Marketing: 프로젝트 성과
+## Performance Marketing 캠페인 운영 성과
 
 <br>
 
@@ -18,11 +18,3 @@
  
 <br>
 <br>
-
-## 2. eCommerce
-
-![프로젝트 이미지2](boxplot.png)
-</div>
-<div style="width: 48%;">
-
-
