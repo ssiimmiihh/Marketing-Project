@@ -1,7 +1,7 @@
 # Marketing-Project
 
 
-![프로젝트](마프1.png)
+![프로젝트](마프.png)
 
 <div style="display: flex; justify-content: space-between;">
 <div style="width: 48%;">
