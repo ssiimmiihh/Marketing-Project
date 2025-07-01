@@ -37,8 +37,8 @@
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
 </p>
 </p>
-
-
+</p>
+<br>
 <hr>
 </p>
 <br>
@@ -62,8 +62,8 @@
 <br>
 <hr>
 <h3 align="center">📫 Contact 📫</h3>
-
-
+</p>
+<br>
 <p align="center">
   <a href="https://www.linkedin.com/in/luciahsim"target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
