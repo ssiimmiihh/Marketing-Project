@@ -13,9 +13,9 @@
 
 <br>
 
-![프로젝트 이미지1](correlation.png)
+![프로젝트1](마프.png)
 </div>
-<div style="width: 48%;">
+<div style="width: 35%;">
 
 <br>
 
