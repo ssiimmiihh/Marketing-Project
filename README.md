@@ -61,14 +61,14 @@
 <div style="width: 35%;">
 <br>
 
-<h3 align="center">📍 태블로 시각화 </h3>
+<h3 align="center">📍 태블로 시각화 포트폴리오 </h3>
 <br>
 <p align="center">
   <a href="https://public.tableau.com/app/profile/luciasim">
     <img src="https://img.shields.io/badge/View-Tableau-blue?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-<h3 align="center">📍 블로그 긍/부정 리뷰 분석 </h3>
+<h3 align="center">📍 블로그 긍/부정 리뷰 분석 프로젝트 </h3>
 <br>
 <p align="center">
   <a href="https://github.com/ssiimmiihh/Streamlitproject_Review">
