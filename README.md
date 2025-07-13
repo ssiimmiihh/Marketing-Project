@@ -61,6 +61,21 @@
 <div style="width: 35%;">
 <br>
 
+<h3 align="center">📍 태블로 시각화 </h3>
+<br>
+<p align="center">
+  <a href="https://public.tableau.com/app/profile/luciasim">
+    <img src="https://img.shields.io/badge/View-Streamlit&nbsp;Project-blue?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+<h3 align="center">📍 그 외 분석 포트폴리오 </h3>
+<br>
+<p align="center">
+  <a href="https://github.com/ssiimmiihh/Streamlitproject_Review">
+    <img src="https://img.shields.io/badge/View-Streamlit&nbsp;Project-white?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
+
 <br>
 <br>
 <hr>
@@ -76,11 +91,4 @@
   </a>
 </p>
 
-<h3 align="center">📍 그 외 분석 포트폴리오 </h3>
-<br>
-<p align="center">
-  <a href="https://github.com/ssiimmiihh/Streamlitproject_Review">
-    <img src="https://img.shields.io/badge/View-Streamlit&nbsp;Project-white?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
-</p>
 
