@@ -76,4 +76,11 @@
   </a>
 </p>
 
+<h3 align="center">📍 그 외 분석 포트폴리오 </h3>
+<br>
+<p align="center">
+  <a href="https://github.com/ssiimmiihh/Streamlitproject_Review">
+    <img src="https://img.shields.io/badge/View-Streamlit&nbsp;Project-white?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
 
