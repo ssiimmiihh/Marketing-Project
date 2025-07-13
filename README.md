@@ -51,7 +51,7 @@
 <br>
 <p align="center">
   <a href="https://raw.githubusercontent.com/ssiimmiihh/Marketing-Project/main/hyojin_performance%20marketing%20pp.pdf">
-    <img src="https://img.shields.io/badge/Download-Portfolio-grey?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Download-Portfolio-white?style=for-the-badge&logo=adobeacrobatreader&logoColor=black"/>
   </a>
 </p>
 
