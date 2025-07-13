@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kakao-FFCD00?style=for-the-badge&logo=kakao&logoColor=black"/>
   <img src="https://img.shields.io/badge/Meta-0866FF?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google-FAFAFA?style=for-the-badge&logo=Google&logoColor=4285F4"/>
 </p>
 </p>
 <br>
