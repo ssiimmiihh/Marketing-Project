@@ -65,7 +65,7 @@
 <br>
 <p align="center">
   <a href="https://public.tableau.com/app/profile/luciasim">
-    <img src="https://img.shields.io/badge/View-Streamlit&nbsp;Project-blue?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View-Tableau-blue?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 <h3 align="center">📍 그 외 분석 포트폴리오 </h3>
